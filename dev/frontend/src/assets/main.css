@@ -1,0 +1,26 @@
+@import "./base.css";
+
+.unread-count {
+  background-color: #ff5555;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.messages-column {
+  max-height: 600px;
+}
+
+.thread-column {
+  max-height: 520px;
+}
+
+.channel-list {
+  max-height: 450px;
+}
+
+.chatImage {
+  max-height: 300px;
+}
